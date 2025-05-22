@@ -75,6 +75,7 @@ Mohak Agarwal [Mohak0245](https://github.com/Mohak0245)
 Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)  
 Allu Gowri Sasaank [allugowrisasaank](https://github.com/allugowrisasaank)  
 Saksham Kumar [saksham-kumar-14](https://github.com/saksham-kumar-14)  
+Reeck Mondal [TheRGuy9201](https://github.com/TheRGuy9201)
 
 ## Task 2
 
