@@ -80,6 +80,7 @@ Uddipto Mandal [UddiptoMandal](https://github.com/UddiptoMandal)
 Yash Bhatt [Curiousforever](https://github.com/Curiousforever)  
 Yash Shah [yash-y-shah](https://github.com/yash-y-shah)  
 Yug Bargaway [YugBargaway2006](https://github.com/YugBargaway2006)  
+Reeck Mondal [TheRGuy9201](https://github.com/TheRGuy9201)
 
 ## Task 2
 
