@@ -44,7 +44,8 @@ Your entry should maintain alphabetic order and it should be in the format:
 ENTER NAMES HERE \
 
 Abhinav Tiwari[atiwari1704](https://github.com/atiwari1704)  
-Agneev Maitra [agneevopter](http://github.com/agneevopter)  
+Agneev Maitra [agneevopter](http://github.com/agneevopter) 
+Arnav Bhandari [arnavbhandari414](https://github.com/arnavbhandari414) 
 Attadarshi Meshram [attadarshikgp](https://github.com/attadarshikgp)  
 Akshat Shukla [Akshat-Shu](https://github.com/Akshat-Shu)  
 Aryan Ruat [AryanRaut24](https://github.com/AryanRaut24)  
